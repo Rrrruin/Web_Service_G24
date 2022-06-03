@@ -19,8 +19,6 @@
   #### We have put our Brane code in file 'Brane_code'.
 
 
-### Automated testing
-
 
 ### Creating of DOI
 We also creat a DOI for our project on Zenodo, which can be seen in the release section of this  Repository.
