@@ -1,4 +1,23 @@
 ## Web Services and Cloud-Based Systems: Rossmann Store Sales project in Brane - Group24
+### Assignment Completion
+Create at least one Brane package which implements a data processing pipeline (the compute package): 
+Create at least one Brane package which generates some plots or graphs based on the results of your data processing pipeline (the visualization package): 
+don't set up the environment successfully, but with partial codes & corresponding yml files and complete code & corresponding test code in the Github respository.
+
+Compose a data processing pipeline, using the Brane DSL (BraneScript) using the created Brane packages: 
+I can't test if the brane script works because I can't package the function successfully, but I've put the script I wrote as I understand it on github.
+
+Publish your solution on GitHub, with extensive code documentation and setup instructions:
+Done.
+
+Create a concise report (2-4 pages, in LNCS5 format), that describes your solution (like a technical report) and reflects on your experience and results (discussion section):
+Done.
+
+Write tests for your package:
+Done.
+
+Create a DOI for your code by archiving it on Zenodo8:
+Done.
 
 ### Function Introduction of project
   We upload all our python code in 4b file. In general, there are three .py file in our project.   
