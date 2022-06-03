@@ -1,3 +1,5 @@
+As brane for some reason did not package the code successfully, it was not possible to test the package either, so here is some of the process and experience of packaging, and what the final simple code should look like. The overall code for this topic is written in the root directory, along with the test functions for the overall code.
+
 [https://wiki.enablingpersonalizedinterventions.nl/user-guide/](https://wiki.enablingpersonalizedinterventions.nl/user-guide/)
 
 it describes how to work with Brane for all three of the framework's target roles (system engineers, software engineers and scientists).
