@@ -24,6 +24,6 @@
 
 ### Creating of DOI
 We also creat a DOI for our project on Zenodo, which can be seen in the release section of this  Repository.
-![Image text]https://github.com/Rrrruin/Web_Service_G24/blob/4bb4cdb9c1490ace2ac0b7e2fb54d8416c513565/image/DOI.PNG
+![Image text](https://github.com/Rrrruin/Web_Service_G24/blob/4bb4cdb9c1490ace2ac0b7e2fb54d8416c513565/image/DOI.PNG)
 
 ### Experience and suggestions
