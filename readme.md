@@ -1,15 +1,15 @@
-# Web Services and Cloud-Based Systems: Rossmann Store Sales project in Brane - Group24
+## Web Services and Cloud-Based Systems: Rossmann Store Sales project in Brane - Group24
 
-## Function Introduction of project
-
-
-## Requirements and setup
+### Function Introduction of project
 
 
-## Automated testing
+### Requirements and setup
 
 
-## Creating of DOI
+### Automated testing
 
 
-## Experience and suggestions
+### Creating of DOI
+
+
+### Experience and suggestions
