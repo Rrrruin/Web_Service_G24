@@ -2,9 +2,13 @@
 
 ### Function Introduction of project
   We upload all our python code in 4b file. In general, there are three .py file in our project.   
+  
   Main.py: Corresponds to the imputation package in Brane which include the preprocessing of data, Model training and result prediction.   
+  
   Virtualization.py: Corresponds to the virtualization package in Brane, it generates the EDA plots, and the feature importance plot.   
+  
   Test_demo.py: Do the test of our function which has been set to automated run in Github by Github Action.  
+  
   If you want to Reproduce our code, you can use the requirements.txt to download all the dependencies of this project, and a copy of our code, that could be all.
 
 ### Requirements and setup of Brane
